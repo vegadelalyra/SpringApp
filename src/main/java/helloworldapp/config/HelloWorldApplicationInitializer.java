@@ -1,4 +1,4 @@
-package com.vegadelalyra.helloworldapp.config;
+package helloworldapp.config;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
